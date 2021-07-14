@@ -14,6 +14,9 @@ cd Integrate.Interview.Backend
 dotnet run
 ```
 
+## Writing code
+This solution has a file called `PeopleController.cs` that will help you get started. A single GET endpoint has been provided. 
+
 ## Testing your code
 In a browser, navigate to https://localhost:44390/index.html to view the Swagger documentation.
 
