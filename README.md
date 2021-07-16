@@ -18,9 +18,10 @@ For this exercise, you will be asked to create a simple RESTful API using C#. Th
     * Phone Number (mandatory)
     * Date Created
 
-2. A persistent datastore isn't required. The datastore can instead be memory-based. But, the code should be designed in such a way that a persistent datastore could be substituted later.
+2. The API should allow the user to add a new person to the DB.
 3. The API should allow the user to retrieve all people stored in the DB.
-4. The API should allow the user to add a new person to the DB.
+4. A persistent datastore isn't required. The datastore can instead be memory-based. But, the code should be designed in such a way that a persistent datastore could be substituted later.
+
 
 ## Here we go!
 Open the [Getting Started Guide](GETTINGSTARTED.md) to get started!
