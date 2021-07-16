@@ -1,5 +1,5 @@
 # Integrate Back-End Interview Exercise
-The center of Integrate's product is the Demand Acceleration Platform (DAP). DAP allows users to interact with marketing lead data. A *marketing lead* is a person who shows interest in a company's products or services. Our customers need marketing leads that are correct and likely to generate business. 
+The center of Integrate's product is the __Demand Acceleration Platform (DAP)__. DAP allows users to interact with marketing lead data. A __marketing lead__ is a person who shows interest in a company's products or services. Our customers need marketing leads that are correct and likely to generate business. 
 
 We are striving to build a world-class application with microservices that expose their functionality through RESTful APIs. For this exercise, you will be asked to create a simple RESTful API using C#. This repo provides a working solution for you to use as a base.
 
