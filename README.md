@@ -1,4 +1,4 @@
-# Integrate Front-End Interview Exercise
+# Integrate Back-End Interview Exercise
 ## Overview
 The center of Integrate's product is the Demand Acceleration Platform (DAP). DAP allows users to interact with marketing lead data. A marketing lead is a person who shows interest in a company's products or services. Our customers need marketing leads that are correct and likely to generate business.
 
