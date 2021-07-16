@@ -18,7 +18,7 @@ We are striving to build a world-class application with microservices that expos
 
 ## Prerequisites
 You must have the following dependencies installed:
-* [.NET Core 5](https://dotnet.microsoft.com/download)
+* [.NET 5](https://dotnet.microsoft.com/download)
 
 ## Running in Visual Studio
 * Open `Integrate.Interview.Backend.sln` in Visual Studio.
