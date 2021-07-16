@@ -16,7 +16,7 @@ We are striving to build a world-class application with microservices that expos
 3. The API should allow the user to retrieve all people in the dataset.
 4. A persistent datastore isn't required. The datastore can instead be memory-based. But, the code should be designed in such a way that a persistent datastore could be substituted later.
 
-## Prerequisites
+## Dependencies
 You must have the following dependencies installed:
 * [.NET 5](https://dotnet.microsoft.com/download)
 
