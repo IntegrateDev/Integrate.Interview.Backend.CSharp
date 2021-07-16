@@ -13,8 +13,9 @@ We are striving to build a world-class application with microservices that expos
     * Date Created
 
 2. The API should allow the user to add a new person to the dataset.
+    * A persistent datastore isn't required. The datastore can instead be memory-based. But, the code should be designed in such a way that a persistent datastore could be substituted later.
 3. The API should allow the user to retrieve all people in the dataset.
-4. A persistent datastore isn't required. The datastore can instead be memory-based. But, the code should be designed in such a way that a persistent datastore could be substituted later.
+    
 
 ## Dependencies
 You must have the following dependencies installed:
