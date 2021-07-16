@@ -25,7 +25,7 @@ You must have the following dependencies installed:
 * Run the solution.
 
 ## Running from the command line
-* In a command line, run these commands from the root of the repo:
+In a command line, run these commands from the root of the repo:
 ```
 cd Integrate.Interview.Backend
 dotnet run
