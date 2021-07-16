@@ -12,8 +12,8 @@ We are striving to build a world-class application with microservices that expos
     * Phone Number (mandatory)
     * Date Created
 
-2. The API should allow the user to add a new person to the DB.
-3. The API should allow the user to retrieve all people stored in the DB.
+2. The API should allow the user to add a new person to the dataset.
+3. The API should allow the user to retrieve all people in the dataset.
 4. A persistent datastore isn't required. The datastore can instead be memory-based. But, the code should be designed in such a way that a persistent datastore could be substituted later.
 
 ## Prerequisites
