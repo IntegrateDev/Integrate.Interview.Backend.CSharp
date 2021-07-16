@@ -22,24 +22,5 @@ For this exercise, you will be asked to create a simple RESTful API using C#. Th
 3. The API should allow the user to retrieve all people stored in the DB.
 4. The API should allow the user to add a new person to the DB.
 
-## Collaboration
-This interview is about more than just code; we're also hoping to discover the following:
-
-* How comfortable are you with pair/group programming? Our culture is highly collaborative.
-* What things are you considering when you are coding? Being able to explain what you're doing and why you're doing it is critical to our continuous improvement as a team.
-* Asking questions (for requirements clarity or help) is encouraged.
-
-## Additional Topics for Discussion
-In addition to the exercise itself, we will be discussing topics related to well-written, production-ready REST APIs. While you won't explicitly be asked to implement any of these concepts, be prepared to discuss how they could be implemented in your app. (We may not cover every concept, and you may bring up other concepts not on this list.)
-
-* Automated Testing
-    - Unit testing
-    - Integration testing
-* Common design patterns
-* SOLID principles
-* IOC containers
-* Model binding
-* Input validation
-
 ## Here we go!
 Open the [Getting Started Guide](GETTINGSTARTED.md) to get started!
