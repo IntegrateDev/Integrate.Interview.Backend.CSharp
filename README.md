@@ -1,7 +1,7 @@
 # Integrate Back-End Interview Exercise
 The center of Integrate's product is the __Demand Acceleration Platform (DAP)__. DAP allows users to interact with marketing lead data. A __marketing lead__ is a person who shows interest in a company's products or services. Our customers need marketing leads that are correct and likely to generate business. 
 
-We are striving to build a world-class application with microservices that expose their functionality through RESTful APIs. For this exercise, you will be asked to create a simple RESTful API using C#. This repo provides a working solution for you to use as a base.
+We are striving to build a world-class application with microservices that expose their functionality through RESTful APIs. For this exercise, you will be asked to create a simple RESTful API. This repo provides a working solution for you to use as a base.
 
 1. The RESTful API should include a data model that consists of a Person class with the following properties:
     * First Name (mandatory)
@@ -16,6 +16,7 @@ We are striving to build a world-class application with microservices that expos
     * A persistent datastore isn't required. The datastore can instead be memory-based. But, the code should be designed in such a way that a persistent datastore could be substituted later.
 3. The API should allow the user to retrieve all people in the dataset.
     
+If you're using C#, you can use the base solution in this repo to get started.
 
 ## Dependencies
 You must have the following dependencies installed:
