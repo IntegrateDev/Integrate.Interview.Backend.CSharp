@@ -3,7 +3,7 @@ The center of Integrate's product is the __Demand Acceleration Platform (DAP)__.
 
 We are striving to build a world-class application with microservices that expose their functionality through RESTful APIs. For this exercise, you will be asked to create a simple RESTful API. This repo provides a working solution for you to use as a base.
 
-1. The RESTful API should include a data model that consists of a Person class with the following properties:
+1. The RESTful API should include a Lead data model with the following properties:
     * First Name (mandatory)
     * Last Name (mandatory)
     * Email (mandatory)
@@ -12,7 +12,7 @@ We are striving to build a world-class application with microservices that expos
     * Phone Number (mandatory)
     * Date Created
 
-2. The API should allow the user to add a new person to the dataset.
+2. The API should allow the user to add a new lead to the dataset.
     * A persistent datastore isn't required. The datastore can instead be memory-based. But, the code should be designed in such a way that a persistent datastore could be substituted later.
 3. The API should allow the user to retrieve all people in the dataset.
     
@@ -39,7 +39,7 @@ dotnet run
 ```
 
 ## Writing code
-This solution has a file called `PeopleController.cs` that will help you get started. A single GET endpoint has been provided. 
+This solution has a file called `LeadsController.cs` that will help you get started. A single GET endpoint has been provided. 
 
 ## Testing your code
 With your solution running, navigate to https://localhost:44390/index.html to view the Swagger documentation.

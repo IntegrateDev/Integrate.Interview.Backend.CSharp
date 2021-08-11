@@ -5,7 +5,7 @@ namespace Integrate.Interview.Backend.Controllers
     [ApiController]
     [Produces("application/json")]
     [Route("[controller]")]
-    public class PeopleController : ControllerBase
+    public class LeadsController : ControllerBase
     {
         [HttpGet]
         public IActionResult Get()
