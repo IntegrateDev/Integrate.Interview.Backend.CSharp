@@ -21,6 +21,11 @@ If you're using C#, you can use the base solution in this repo to get started.
 ## Dependencies
 You must have the following dependencies installed:
 * [.NET 5](https://dotnet.microsoft.com/download)
+* [Git](https://git-scm.com/downloads)
+
+## Pulling down the code
+Use Git to clone this repo. You can run the following from a command line:
+`git clone https://github.com/IntegrateDev/Integrate.Interview.Backend.CSharp.git`
 
 ## Running in Visual Studio
 * Open `Integrate.Interview.Backend.sln` in Visual Studio.
