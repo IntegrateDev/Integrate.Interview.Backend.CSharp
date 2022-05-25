@@ -20,7 +20,7 @@ If you're using C#, you can use the base solution in this repo to get started.
 
 ## Dependencies
 You must have the following dependencies installed:
-* [.NET 5](https://dotnet.microsoft.com/download)
+* [.NET 6](https://dotnet.microsoft.com/download)
 * [Git](https://git-scm.com/downloads)
 
 ## Pulling down the code
